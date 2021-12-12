@@ -1,0 +1,344 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vgpl.in" resolutions="1x" timestamp="1639326398294">
+  <folder name="css">
+    <file name="site_global.css" crc="4085848327"/>
+    <file name="master_a-master.css" crc="51770118" ref="contact:piping:services:index:construction:portfolio:about:epc"/>
+    <file name="contact.css" crc="3816943883" ref="contact"/>
+    <file name="piping.css" crc="347330467" ref="piping"/>
+    <file name="services.css" crc="4059379009" ref="services"/>
+    <file name="index.css" crc="4190956361" ref="index"/>
+    <file name="construction.css" crc="4017975980" ref="construction"/>
+    <file name="portfolio.css" crc="3978031379" ref="portfolio"/>
+    <file name="about.css" crc="3842232412" ref="about"/>
+    <file name="epc.css" crc="4013502516" ref="epc"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="webpro.js" crc="3856315280" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u3066.php" crc="479076910" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="require.js" crc="4177726516" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="form-u3207.php" crc="4285769354" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="48208_gail_expedites_372.jpg" crc="226988087" seo="true" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="about-img.jpg" crc="4256708327" seo="true" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="odisha-government-investment-proposals.jpg" crc="426582741" seo="true" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="shutterstock_1619236420-scaled.jpg" crc="3943420976" seo="true" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:about:portfolio:contact:services:construction:epc:piping"/>
+    <file name="twitter.png" crc="4102706121" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="instagram.png" crc="260457741" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dribbble.png" crc="4050684656" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="skype.png" crc="4267061425" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snap_screen_20211211210409.jpg" crc="3816464725" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pipeline-work-services-500x500.jpg" crc="4073567773" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="z8-6.jpg" crc="4048209602" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="gasset-2_0.jpg" crc="4216870023" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="1-u2108-fr.jpg" crc="4189529930" ref="index"/>
+    <file name="kanaichatta.jpg" crc="240046480" ref="index:portfolio:epc">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="epc" alt=""/>
+    </file>
+    <file name="maxresdefault.jpg" crc="153626519" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="106667975-1597751265693-gettyimages-185575999-enbridge_pipeline.jpg" crc="4159840064" ref="index:portfolio:piping">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="piping" alt=""/>
+    </file>
+    <file name="156.jpg" crc="4256653691" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="17.jpg" crc="4261781826" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="15.jpg" crc="4252152227" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="medium_image_184940750.jpg" crc="323223557" ref="index:piping">
+      <caption webpage="index" alt=""/>
+      <caption webpage="piping" alt=""/>
+    </file>
+    <file name="pipeline9-u2119-fr.jpg" crc="281242871" ref="index"/>
+    <file name="1-u2922-fr.jpg" crc="244499214" ref="index"/>
+    <file name="underground-pipeline-780x470.jpg" crc="216679666" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="106667975-1597751265693-gettyimages-185575999-enbridge_pipeline-u7600-fr.jpg" crc="4032087974" ref="index:about:services:construction:epc"/>
+    <file name="maxresdefault-u7608-fr.jpg" crc="45569723" ref="index:about:services:construction:epc"/>
+    <file name="oil_and_gas_pipeline.jpg" crc="4120756386" ref="index:about:services:construction:epc">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="epc" alt=""/>
+    </file>
+    <file name="1-u7614-fr.jpg" crc="3792070293" ref="index:about:services:construction:epc"/>
+    <file name="17-u7606-fr.jpg" crc="246217881" ref="index:about:services:construction:epc"/>
+    <file name="13-u7607-fr.jpg" crc="404197467" ref="index:about:services:construction:epc"/>
+    <file name="medium_image_184940750-u7618-fr.jpg" crc="3997699049" ref="index:about:services:construction:epc"/>
+    <file name="156-u7623-fr.jpg" crc="3822172998" ref="index:about:services:construction:epc"/>
+    <file name="15-u7637-fr.jpg" crc="4023144000" ref="index:about:services:construction:epc"/>
+    <file name="kanaichatta-u7640-fr.jpg" crc="3906957293" ref="index:about:services:construction:epc"/>
+    <file name="whatsapp.png" crc="234484649" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mobile-phone.png" crc="466415370" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="facebook2.png" crc="407167642" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="google-maps.png" crc="195896915" ref="index:about:portfolio:contact:services:construction:epc:piping">
+      <caption webpage="about" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="epc" alt=""/>
+      <caption webpage="piping" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rplexpng.png" crc="3904316786" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4173641396" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pipeline9-u3801-fr.jpg" crc="3876609312" ref="portfolio"/>
+    <file name="medium_image_184940750-u3806-fr.jpg" crc="4216177231" ref="portfolio"/>
+    <file name="12-u3802-fr.jpg" crc="534147181" ref="portfolio"/>
+    <file name="underground-pipeline-780x470-u3804-fr.jpg" crc="3933462906" ref="portfolio"/>
+    <file name="13.jpg" crc="4240518604" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="1.jpg" crc="415677677" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="images.jpg" crc="3916881488" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="4_eupdatedec18_cpw3.jpg" crc="351526141" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="favpng_call-centre-customer-service-armenia-call-center-telephone-call.png" crc="3916875887" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pipeline9.jpg" crc="488792708" ref="piping">
+      <caption webpage="piping" alt=""/>
+    </file>
+    <file name="12-u5204-fr.jpg" crc="3876717891" ref="piping"/>
+    <file name="underground-pipeline-780x470-u5205-fr.jpg" crc="4012153821" ref="piping"/>
+  </folder>
+  <file name="index.html" crc="431268406" seo="true" mt="1639326387073" redirect="true"/>
+  <file name="about.html" crc="308173570" seo="true" mt="1639326387072" redirect="true"/>
+  <file name="portfolio.html" crc="4049732789" seo="true" mt="1639326386978" redirect="true"/>
+  <file name="contact.html" crc="429464389" seo="true" mt="1639249575149" redirect="true"/>
+  <file name="services.html" crc="3872491694" seo="true" mt="1639326387074" redirect="true"/>
+  <file name="construction.html" crc="3923117330" seo="true" mt="1639326387071" redirect="true"/>
+  <file name="epc.html" crc="4168388614" seo="true" mt="1639326387065" redirect="true"/>
+  <file name="piping.html" crc="3850279554" seo="true" mt="1639326386856" redirect="true"/>
+</manifest>
